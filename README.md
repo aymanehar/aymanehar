@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm aymane harchiche</h1>
 <h3 align="center">A passionate frontend developer from morrocco</h3>
 
-- 🔭 I’m currently working on **1ere projet css html**
 
-- 👯 I’m looking to collaborate on **1ere projet css html**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
